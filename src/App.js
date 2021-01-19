@@ -7,7 +7,7 @@ import Total from './components/Total';
 
 const App = () => {
   
-    
+    //Removed state and put into reducer
 
   return (
     <div className="boxes">
